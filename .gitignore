@@ -147,3 +147,7 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Firebase service account keys
+serviceAccountKey*.json
+*-firebase-adminsdk-*.json
